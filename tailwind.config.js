@@ -15,7 +15,8 @@ module.exports = {
       }),
       fontFamily: {
         'clash':['Clash Display',  'sans-serif'],
-        'mono': ['Monteserrat', 'sans-serif']
+        'mono': ['Monteserrat', 'sans-serif'],
+        'unica': ['Unica One']
       }
     },
   },
